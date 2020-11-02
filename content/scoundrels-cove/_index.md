@@ -10,4 +10,4 @@ The latest edition of this map, **Scoundrels' Cove II** is now available to play
 
 We look forward to hearing your feedback and suggestions. 
 
-![Scoundrels Cove II StarCraft II Map By Outright Mental](Scoundrels-Cove-II-StarCraft-2-Map-By-Outright-Mental.jpg)
+[![Scoundrels Cove II StarCraft II Map By Outright Mental](Scoundrels-Cove-II-StarCraft-2-Map-By-Outright-Mental.jpg)](https://starcraft2.com/en-us/)
