@@ -46,8 +46,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "StarCraft II Maps"
-    subtitle = "by Outright Mental"
+    title = "StarCraft II Maps by Outright Mental"
+    subtitle = "Thought-Provoking"
     description = "We love playing StarCraft II, and wanted to try out some map ideas of our own."
     owner = "Outright Mental"
     keywords = "StarCraft II, Custom Map, Real-Time Strategy, RTS, Melee"
