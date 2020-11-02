@@ -8,4 +8,4 @@ Find us in the custom melee maps on [StarCraft II](https://starcraft2.com/en-us/
 
 We look forward to hearing your feedback and suggestions. 
 
-![Scoundrels Cove II StarCraft II Map By Outright Mental](/assets/images/Scoundrels-Cove-II-StarCraft-2-Map-By-Outright-Mental.jpg)
+![Scoundrels Cove II StarCraft II Map By Outright Mental](Scoundrels-Cove-II-StarCraft-2-Map-By-Outright-Mental.jpg)
