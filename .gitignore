@@ -1,4 +1,7 @@
-_site
-.sass-cache
-.jekyll-metadata
+# IntelliJ
 .idea
+
+# Hugo
+/public/
+/resources/_gen/
+
