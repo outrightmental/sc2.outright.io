@@ -4,7 +4,7 @@ title:  "Scoundrels' Cove II"
 date:   2020-11-01 20:35:24 -0800
 ---
 
-Find us in the custom melee maps on [StarCraft II](https://starcraft2.com/en-us/), now free to play from Blizzard Entertainment!
+The latest edition of this map, **Scoundrels' Cove II** is now available to play for free in the community-created melee maps of [StarCraft II](https://starcraft2.com/en-us/).
 
 We look forward to hearing your feedback and suggestions. 
 

@@ -1,0 +1,17 @@
+<footer class="footer">
+  <div class="copyright">
+    <span>{{ $.Site.Copyright | safeHTML }}</span>
+    <span> ::&nbsp;email&nbsp;<a href="mailto:sc2@outright.io">sc2@outright.io</a>&nbsp;</span>
+    <span> ::&nbsp;https&nbsp;<a href="https://outrightmental.com/">outrightmental.com</a></span>
+  </div>
+</footer>
+
+<script src="{{ "assets/main.js" | absURL }}"></script>
+<script src="{{ "assets/prism.js" | absURL }}"></script>
+
+{{ if $.Site.Params.showLanguageSelector }}
+  <script src="{{ "assets/languageSelector.js" | absURL }}"></script>
+{{ end }}
+
+<!-- Extended footer section-->
+{{ partial "extended_footer.html" . }}
