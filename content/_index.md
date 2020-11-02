@@ -1,8 +1,9 @@
 ---
-list_title: Maps
 ---
 
-Find us in the custom melee maps on [StarCraft II](https://starcraft2.com/en-us/), now free to play from Blizzard Entertainment.
+We love playing StarCraft II, and were inspired to get into map editing.
+
+So far, just dialing in a ladder-style melee map with above-average flair called **[Scoundrels' Cove](/scoundrels-cove/)**.
 
 We look forward to hearing your feedback and suggestions.
 
