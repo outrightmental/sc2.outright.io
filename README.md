@@ -1,3 +1,3 @@
 # sc2.outright.io
 
-StarCraft 2 Maps by Outright Mental
+StarCraft II Maps by Outright Mental

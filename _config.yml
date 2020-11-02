@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: StarCraft 2 Maps
+title: StarCraft II Maps
 email: sc2@outright.io
 description: >- # this means to ignore newlines until "baseurl:"
-  We love playing StarCraft 2, and wanted to try out some map ideas of our own.
+  We love playing StarCraft II, and wanted to try out some map ideas of our own.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: outrightmental
@@ -27,9 +27,11 @@ twitch_username: outrightmental
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
-plugins:
-  - jekyll-feed
+theme: minima
+
+minima:
+  skin: dark
+  date_format: "%Y %b %-d"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
