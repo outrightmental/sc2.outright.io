@@ -28,6 +28,7 @@ twitch_username: outrightmental
 # Build settings
 markdown: kramdown
 theme: minima
+show_excerpts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
