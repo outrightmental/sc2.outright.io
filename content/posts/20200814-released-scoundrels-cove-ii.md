@@ -9,4 +9,4 @@ Our remix of the original map, **Scoundrels' Cove II** is available to play for 
 
 We look forward to hearing your feedback and suggestions. 
 
-![Scoundrels Cove II StarCraft II Map By Outright Mental](/scoundrels-cove/Scoundrels-Cove-II-StarCraft-2-Map-By-Outright-Mental.jpg)
+[![Scoundrels Cove II StarCraft II Map By Outright Mental](/scoundrels-cove/Scoundrels-Cove-II-StarCraft-2-Map-By-Outright-Mental.jpg)](/scoundrels-cove/)
